@@ -13,6 +13,6 @@
 | 验证 ||||
 
 插件制作Future
-| 进度 | meter-core-cn | meter |
+| 进度 | [meter-core-cn](https://github.com/SuYueQiuLiang/meter-core-cn) | meter |
 |----------|----------|----------|
 | 进度 | 0% | 0% |
