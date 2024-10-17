@@ -11,7 +11,9 @@
 * 如果插件被认定为禁止使用的外部程序,tp仍然有能力封禁使用的玩家账号
 
 
-已知解密数据包需要xor.bin/oodle.bin/opcodes(?)
+已知解密数据包需要xor.bin/oodle.bin/opcodes
+10.17更新
+opcode影响数据包的具体格式，现在工作重新回到opcodes的提取
 提取进度
 | 进度 | oodle.bin | xor.bin | opcodes |
 |----------|----------|----------|----------|
