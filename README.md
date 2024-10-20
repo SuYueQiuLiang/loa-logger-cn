@@ -5,7 +5,7 @@
 
 
 项目已经进入初步开发，目前在等待最后一块拼图完成
-https://github.com/SuYueQiuLiang/loa-logger-cn/blob/main/README.md
+
 因为一些原因，直接适配外服插件到国服暂时没有办法
 
 ### 前排提示
