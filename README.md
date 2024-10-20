@@ -20,6 +20,10 @@ https://github.com/SuYueQiuLiang/loa-logger-cn/blob/main/README.md
 
 opcode影响数据包的具体格式，现在工作重新回到opcodes的提取
 
+10.21更新
+
+kr服策划已经注意到kr的dps插件，并且一定程度上修改了数据包（加密/修改数据结构），在本次更新稳定前暂时停止目前的开发流程，可能会尝试一下解密kr的新数据
+
 提取进度
 | 进度 | oodle.bin | xor.bin | opcodes |
 |----------|----------|----------|----------|
